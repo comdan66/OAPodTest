@@ -1,0 +1,6 @@
+framework module OAPodTest {
+  umbrella header "OAPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
